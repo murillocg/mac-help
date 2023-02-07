@@ -63,30 +63,47 @@ Option Right-Arrow: Move the insertion point to the end of the next word.
 ### IntelliJ Shortcuts
 
 Shift Cmd A: Find action
+
 Esc: Focus on the editor
+
 Cmd E: Recent files
+
 Shift Cmd E: Recent locations
+
 Cmd O: Open classes
+
 Shift Cmd O: Open file
 
 Cmd 1: Project view
+
 Option F7: Find usages
+
 Cmd N: Generate
+
 Option Cmd L: Reformat code
+
 Cmd F9: Build project
-Shift cmd v: Paste from History
+
+Shift Cmd V: Paste from History
+
 Cmd Z: Undo
+
 Shit Cmd Z: Redo
 
 Cmd Delete: Delete line
-Cmd D: Duplicate line or Select	ion
+
+Cmd D: Duplicate line or Select	lines
+
 Shift Cmd U: Toggle case
 
 ### Caret navigation
 
 Ctrl Shift Down: Next method
+
 Ctrl Shift Up: Previous method
+
 Option Shift Left: Move Caret to previous word with selection
+
 Option Shift Right: Move Caret to next word with selection
 
 # References 
