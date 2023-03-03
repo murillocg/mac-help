@@ -24,6 +24,16 @@ Install the maven latest version
 sdk install maven
 ```
 
+### Install JMeter
+```sh
+brew install jmeter
+```
+
+List JMeter directories
+```sh
+brew list jmeter
+```
+
 ## Shortcuts
 
 ### General
