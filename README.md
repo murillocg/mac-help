@@ -72,6 +72,12 @@ Option Right-Arrow: Move the insertion point to the end of the next word.
 
 ### IntelliJ Shortcuts
 
+Ctrl Option o: Optimize imports
+
+Cmd [: Navigate to previows location 
+
+Cmd ]: Navigate to next location 
+
 Shift Cmd A: Find action
 
 Esc: Focus on the editor
