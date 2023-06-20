@@ -4,6 +4,13 @@ Guide with tips related to migration from Windows to MacBook
 
 ## Setup
 
+### Install basics tools
+
+- Install Chrome
+- Install iTerm2 with oh my zsh
+- Install TextMate
+- Install IntelliJ
+
 ### Install Java and Maven
 
 Use the sdkman to manage java, including multiple versions.
