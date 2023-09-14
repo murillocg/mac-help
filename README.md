@@ -23,7 +23,7 @@ curl -s "https://get.sdkman.io" | bash
 Chose the java version and install
 ```sh
 sdk list java
-sdk install 17.0.6-sapmchn
+sdk install java 11.0.20-amzn
 ```
 
 Install the maven latest version
